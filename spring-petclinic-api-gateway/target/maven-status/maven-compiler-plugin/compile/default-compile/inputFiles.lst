@@ -1,0 +1,9 @@
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/ApiGatewayApplication.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/VisitsServiceClient.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetType.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/OwnerDetails.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/Visits.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetDetails.java
+/Users/mericalp/Desktop/petclinic-microservices-with-db-main/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/VisitDetails.java
